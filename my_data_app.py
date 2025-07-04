@@ -6,7 +6,7 @@ st.markdown("<h1 style='text-align: center; color: black;'>MY DATA APP</h1>", un
 
 st.markdown("""
 This app allows you to download scraped data on motocycles from expat-dakar 
-* **Python libraries:** base64, pandas, streamlit
+* **Python libraries:** pandas, streamlit
 * **Data source:** [Expat-Dakar](https://www.expat-dakar.com/).
 """)
 
